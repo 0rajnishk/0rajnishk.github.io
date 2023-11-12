@@ -1,10 +1,5 @@
 # Personal Portfolio 🔥
 > https://0rajnishk.github.io/
-
-:star: Star me on GitHub — it helps!
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
@@ -23,9 +18,6 @@
 ✔️ Contact Info
 
 
-
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
